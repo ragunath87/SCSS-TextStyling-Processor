@@ -1,0 +1,11 @@
+// Creating Text Styles
+// Author : Ragunath Srinivasan
+// Version : 1.0
+// 1. Using Injected Font Size from stylesheet
+// 2. and available colors declared in style sheet.
+
+// New Nested Variables
+$textColors: ( 
+  'default' : #000,
+  'primary' : #00ff00, 
+  'secondary' : #ff0000);

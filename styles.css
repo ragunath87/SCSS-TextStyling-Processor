@@ -1,0 +1,44 @@
+.title16 {
+  font-size: 16px;
+  color: #000;
+}
+
+.title18 {
+  font-size: 18px;
+  color: #000;
+}
+
+.title20 {
+  font-size: 20px;
+  color: #000;
+}
+
+.title16-primary {
+  font-size: 16px;
+  color: #00ff00;
+}
+
+.title18-primary {
+  font-size: 18px;
+  color: #00ff00;
+}
+
+.title20-primary {
+  font-size: 20px;
+  color: #00ff00;
+}
+
+.title16-secondary {
+  font-size: 16px;
+  color: #ff0000;
+}
+
+.title18-secondary {
+  font-size: 18px;
+  color: #ff0000;
+}
+
+.title20-secondary {
+  font-size: 20px;
+  color: #ff0000;
+}/*# sourceMappingURL=styles.css.map */

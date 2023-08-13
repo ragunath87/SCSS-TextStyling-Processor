@@ -1,0 +1,4 @@
+@use './textColors' as * ;
+@use './textProcessor' as *;
+
+@include fontSizeGenerator(title, "16", "18", "20");
