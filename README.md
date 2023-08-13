@@ -7,3 +7,11 @@ With SCSS-TextStyling-Processor, achieving consistent and visually appealing tex
 Gone are the days of tediously crafting text styles line by line. Simply include our mixin, select your desired size, and pick from a range of harmonious colors. Watch your text come to life with a unified and professional appearance across your web applications.
 
 Embrace the future of streamlined text styling. Give SCSS-TextStyling-Processor a try and experience a time-saving solution that empowers you to focus on what truly matters – designing remarkable user experiences. Elevate your projects with SCSS-TextStyling-Processor today.
+
+Ways to Use,
+
+1. Modify your colors inside "_textColors.scss" and create your own key and values.
+
+2. import the partial "./partials/_textProcessor.scss" inside your master SCSS stylesheet, after no worries processor will generate the code for you.
+
+3. @include fontSizeGenerator("YourClassName", "fontSizes","needed to", "Generate" );
